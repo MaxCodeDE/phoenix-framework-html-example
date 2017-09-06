@@ -1,0 +1,21 @@
+<center>
+    Seite 2
+    <button onclick="go()">Zurück</button>
+</center>
+<script>
+function go() {
+    window.location = "/";
+}
+</script>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<center>
+<p><%= test_info %></p>
+<p><%= @message %></p>
+</center>

@@ -1,0 +1,9 @@
+<center>
+    Willkommen auf dieser Seite!
+    <button onclick="go()">Weiter</button>
+</center>
+<script>
+function go() {
+    window.location = "/test";
+}
+</script>
